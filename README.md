@@ -4,7 +4,7 @@
 
 This source code is for viewing and portfolio evaluation purposes only. No permission is granted to copy, modify, host, or redistribute this code in any form.
 
-# Pieach Limited — multi-page property website
+# Peach Limited — educational test multi-page property website
 
 This is a responsive, static website concept inspired by the editorial structure and restrained architectural style of Lenval Properties. It is branded for Pieach Limited and uses replacement stock photography from Unsplash.
 
